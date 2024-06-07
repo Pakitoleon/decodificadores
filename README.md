@@ -1,1 +1,1 @@
-Esto es u. pequeño proyecto de estudio
+Esto es un pequeño proyecto de estudio
